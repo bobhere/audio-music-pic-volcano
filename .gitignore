@@ -1,0 +1,25 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 项目特定文件
+temp/
+projects/
+*.mp4
+*.mp3
+*.wav
+*.aac
+*.jpg
+*.jpeg
+*.png
+dist/
+build/
+
+# 系统文件
+.DS_Store
+.vscode/
+.idea/
+
+# 日志文件
+*.log 
